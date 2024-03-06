@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">javaandriod</string>
+    <string name="brightness_slider_description">Adjust screen brightness</string>
+</resources>
